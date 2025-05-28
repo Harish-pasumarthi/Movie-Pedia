@@ -10,7 +10,7 @@ Moviepedia is a single-page web application that allows users to search for movi
 
 | Home Page | Light Mode | Dark Mode | Search History |
 |-----------|------------|-----------|----------------|
-| ![Home](screenshots/home.png) | ![Light](screenshots/light-mode.png) | ![Dark](screenshots/dark-mode.png) | ![History](screenshots/history.png) |
+| ![Home](img/1.png) | ![Light](img/2.png) | ![Dark](img/3.png) | ![History](img/4.png) |
 
 > *Screenshots from desktop view. Mobile-responsive layout included.*
 
