@@ -13,7 +13,7 @@
 |-----------|------------|-----------|
 | ![Home](img/1.png) | ![Light](img/2.png) | ![Dark](img/3.png) |
 
-| Search History | Error Message |
+| Search History | Search History |
 |----------------|----------------|
 | ![History](img/4.png) | ![Error](img/5.png) |
 
